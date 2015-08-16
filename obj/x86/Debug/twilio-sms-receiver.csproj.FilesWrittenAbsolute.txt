@@ -1,0 +1,8 @@
+/home/carlin/Workspace/twilio-sms-receiver/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/carlin/Workspace/twilio-sms-receiver/bin/Debug/twilio-sms-receiver.exe.mdb
+/home/carlin/Workspace/twilio-sms-receiver/bin/Debug/twilio-sms-receiver.exe
+/home/carlin/Workspace/twilio-sms-receiver/obj/x86/Debug/twilio-sms-receiver.exe
+/home/carlin/Workspace/twilio-sms-receiver/obj/x86/Debug/twilio-sms-receiver.exe.mdb
+/home/carlin/Workspace/twilio-sms-receiver/bin/Debug/RestSharp.dll
+/home/carlin/Workspace/twilio-sms-receiver/bin/Debug/Twilio.Api.dll
+/home/carlin/Workspace/twilio-sms-receiver/bin/Debug/Twilio.WebMatrix.dll
